@@ -938,7 +938,7 @@ public class SistemaEstoqueTributavel {
                                                 break;
 
                                             case 4:
-                                                System.out.println("\n--- CURVA ABC POR FATURAMENTO ---");
+                                                System.out.println("--- CURVA ABC POR FATURAMENTO ---");
                                                 if (historicoQtd.size() == 0) {
                                                     System.out.println("Nenhuma venda realizada até o momento.");
                                                 } else {
