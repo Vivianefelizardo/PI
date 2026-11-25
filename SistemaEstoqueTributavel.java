@@ -1,3 +1,7 @@
+//Senha ADMIN: 123
+//Senha Vendedor: 456
+//Acesso Cliente Cadastrado: CPF:12345678900 Senha: 789
+
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
